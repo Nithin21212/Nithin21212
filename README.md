@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @Nithin21212
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- version data developer 
-
-<!---
-Nithin21212/Nithin21212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<html>
+	<head>
+		<title>
+			nithin
+		</title>
+	</head>
+	<body>
+		<h1>
+			nithin kumar
+		</h1>
+	</body>
+</html>
